@@ -4,4 +4,4 @@ const app = express();
 
 console.log("hello");
 
-app.listen(7000);
+app.listen(3000);
